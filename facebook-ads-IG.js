@@ -1,8 +1,8 @@
+var business_id = 0000000000000000; // pegar na página que está logado do adsmanager/audience
+var page_id = "000000000000000"; // precisa ser uma string
 var token = "aaaaaaaaaaaaa"; // pegar na página que está logado do adsmanager/audience
 var action = 000000000000000; // pegar na página que está logado do adsmanager/audience
-var business_id = 0000000000000000; // pegar na página que está logado do adsmanager/audience
 var sessionID = "0000aa000a0a000"; // pegar na página que está logado do adsmanager/audience
-var page_id = "000000000000000"; // precisa ser uma string
 var seconds = 24 * 60 * 60;
 
 function fetchBody(body) {
