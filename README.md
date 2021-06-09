@@ -14,3 +14,6 @@ Fan-page publicos:
 * token, action, sessionID, você irá encontrar ao salvar o post
 
 [criar video explicando como encontrar os dados]
+
+
+<a href="https://www.buymeacoffee.com/felipealmeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Beer" style="height: 60px !important; width: 217px !important;" ></a>
